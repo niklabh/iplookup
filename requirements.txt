@@ -4,5 +4,5 @@ MarkupSafe==0.18
 Werkzeug==0.12
 gunicorn==18.0
 itsdangerous==0.23
-requests==2.0.1
+requests==2.32.4
 wsgiref==0.1.2
